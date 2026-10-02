@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html","k":"18"},{"p":"ua.edu.sumdu.j2se.pr1","l":"MainClass"},{"p":"ua.edu.sumdu.j2se.pr1.operations","l":"Operation"}];updateSearchResults();

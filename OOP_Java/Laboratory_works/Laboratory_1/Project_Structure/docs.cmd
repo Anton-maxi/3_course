@@ -1,0 +1,1 @@
+javadoc -encoding UTF8 -d docs -sourcepath sources ua.edu.sumdu.j2se.pr1 ua.edu.sumdu.j2se.pr1.operations
