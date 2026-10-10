@@ -4,3 +4,6 @@
 [submodule "Image_Recognition_and_Classical_Machine_Learning/Laboratory_work_ML/Laboratory_1"]
 	path = Image_Recognition_and_Classical_Machine_Learning/Laboratory_work_ML/Laboratory_1
 	url = https://github.com/Anton-maxi/pattern-recognition-practice.git
+[submodule "Client-Side_Web_Programming_Technologies/Laboratory_work_Web/Laboratory_2"]
+	path = Client-Side_Web_Programming_Technologies/Laboratory_work_Web/Laboratory_2
+	url = https://github.com/Anton-maxi/lab2-web-programming
