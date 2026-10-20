@@ -7,3 +7,6 @@
 [submodule "Client-Side_Web_Programming_Technologies/Laboratory_work_Web/Laboratory_2"]
 	path = Client-Side_Web_Programming_Technologies/Laboratory_work_Web/Laboratory_2
 	url = https://github.com/Anton-maxi/lab2-web-programming
+[submodule "OOP_Java/Laboratory_works/Laboratories_4-18"]
+	path = OOP_Java/Laboratory_works/Laboratories_4-18
+	url = https://github.com/Anton-maxi/Laboratories_4-18.git
