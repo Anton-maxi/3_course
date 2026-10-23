@@ -10,3 +10,6 @@
 [submodule "OOP_Java/Laboratory_works/Laboratories_4-18"]
 	path = OOP_Java/Laboratory_works/Laboratories_4-18
 	url = https://github.com/Anton-maxi/Laboratories_4-18.git
+[submodule "Client-Side_Web_Programming_Technologies/Laboratory_work_Web/Laboratory_3"]
+	path = Client-Side_Web_Programming_Technologies/Laboratory_work_Web/Laboratory_3
+	url = https://github.com/Anton-maxi/lab3-web-programming.git
