@@ -13,3 +13,5 @@
 bin/
 obj/
 OBS_videos/
+*.exe
+*_autosave.fsm
