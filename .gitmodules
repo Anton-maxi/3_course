@@ -13,3 +13,6 @@
 [submodule "Client-Side_Web_Programming_Technologies/Laboratory_work_Web/Laboratory_3"]
 	path = Client-Side_Web_Programming_Technologies/Laboratory_work_Web/Laboratory_3
 	url = https://github.com/Anton-maxi/lab3-web-programming.git
+[submodule "Client-Side_Web_Programming_Technologies/Laboratory_work_Web/Laboratory_4"]
+	path = Client-Side_Web_Programming_Technologies/Laboratory_work_Web/Laboratory_4
+	url = https://github.com/Anton-maxi/lab4-web-programming.git
